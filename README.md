@@ -22,7 +22,8 @@ Server = https://github.com/dork40/arch-repo/releases/download/packages
 ## Install
 
 ```sh
-sudo pacman -S mural lectern
+sudo pacman -S mural
+sudo pacman -S lectern
 ```
 
 Updates arrive with your normal `sudo pacman -Syu`.

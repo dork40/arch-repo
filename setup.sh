@@ -12,4 +12,4 @@ else
 fi
 sudo pacman -Sy
 echo
-echo "Done. Install with:  sudo pacman -S mural lectern"
+echo "Done. Now install an app, e.g.:  sudo pacman -S mural    or    sudo pacman -S lectern"
